@@ -1,4 +1,4 @@
-# Alzheimer's Disease Prediction Project
+# Alzheimer's Disease Prediction using Machine Learning and MLops
 
 ## Table of Contents
 
