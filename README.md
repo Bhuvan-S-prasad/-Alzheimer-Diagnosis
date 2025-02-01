@@ -7,10 +7,11 @@
 3.  [Models Used and Model Building](#models-used-and-model-building)
 4.  [MLOps Integration](#mlops-integration)
 5.  [Project Outcomes and Functionality](#project-outcomes-and-functionality)
-6.  [Project Directory Structure](#project-directory-structure)
-7.  [Conclusion](#conclusion)
-8.  [Future Work](#future-work)
-9.  [License](#license)
+6.  [Skills & Technologies](#Skills-&-Technologies)
+7.  [Project Directory Structure](#project-directory-structure)
+8.  [Conclusion](#conclusion)
+9.  [Future Work](#future-work)
+10. [Conclusion](#Conclusion)
 
 ## 1. General Overview
 
@@ -102,11 +103,22 @@ This project incorporates several Machine Learning Operations (MLOps) principles
 
 *   **Reproducibility (Virtual Environments and `requirements.txt`):** To ensure reproducibility of the project environment, we utilized Python virtual environments to isolate project dependencies. A `requirements.txt` file is included to list all Python package dependencies and their versions, allowing others (or your future self) to easily recreate the exact project environment and reproduce the project's results.
 
+## 6. Skills & Technologies
+
+This project demonstrates proficiency in the following skills and technologies:
+
+[![Python](https://img.shields.io/badge/Python-Proficient-blueviolet)](https://www.python.org/)
+[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Applied-blue)](https://en.wikipedia.org/wiki/Machine_learning)
+[![MLOps](https://img.shields.io/badge/MLOps-Implemented-brightgreen)](https://ml-ops.org/)
+[![Scikit-learn](https://img.shields.io/badge/Scikit--learn-Experienced-orange)](https://scikit-learn.org/stable/)
+[![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)](https://pandas.pydata.org/)
+[![Git](https://img.shields.io/badge/Git-Version%20Control-blueviolet)](https://git-scm.com/)
+[![YAML](https://img.shields.io/badge/YAML-Configuration-blue)](https://yaml.org/)
+[![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-EDA%20and%20Prototyping-orange)](https://jupyter.org/)
 
 
 
-
-## 6. Project Directory Structure
+## 7. Project Directory Structure
 ```
 alzheimer_prediction_project/
 ├── data/
@@ -135,7 +147,7 @@ alzheimer_prediction_project/
 └── requirements.txt
 ```
 
-## 7. Conclusion
+## 8. Conclusion
 
 This project explored a machine learning approach for Alzheimer’s disease prediction, covering data exploration, preprocessing, model training, evaluation, and deployment as a simple command-line tool.
 Since this was my first experience with MLOps, I focused on implementing basic MLOps concepts to enhance the project's organization, reproducibility, and maintainability. This included automated pipelines, version control, and experiment tracking—keeping things simple yet effective.
