@@ -1,0 +1,6 @@
+{
+    "random_forest_validation_accuracy": 0.7167474421109317,
+    "random_forest_validation_auc_roc": 0.7945704857831691,
+    "random_forest_test_accuracy": 0.7274522121511263,
+    "random_forest_test_auc_roc": 0.8022005454952671
+}

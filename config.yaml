@@ -1,0 +1,35 @@
+data_path: "C:/Users/bhuva/Desktop/Alziemer/data/raw/alzheimers_prediction_dataset.csv"  
+target_variable: "Alzheimer Diagnosis"
+categorical_features:
+  - "Country"
+  - "Gender" 
+  - "Smoking Status" 
+  - "Alcohol Consumption" 
+  - "Diabetes" 
+  - "Hypertension" 
+  - "Cholesterol Level" 
+  - "Family History of Alzheimer" 
+  - "Dietary Habits" 
+  - "Employment Status" 
+  - "Marital Status" 
+  - "Genetic Risk Factor"
+  - "Social Engagement Level" 
+  - "Urban vs Rural Living" 
+  - "Physical Activity Level" 
+  - "Depression Level" 
+  - "Sleep Quality" 
+  - "Income Level" 
+  - "Air Pollution Exposure"
+  - "Stress Levels" 
+numerical_features:
+  - "Age"
+  - "Education Level" 
+  - "BMI" 
+  - "Cognitive Test Score" 
+test_size: 0.3
+random_state: 42
+processed_data_dir: "C:/Users/bhuva/Desktop/Alziemer/data/processed"
+model_dir: "C:/Users/bhuva/Desktop/Alziemer/models"
+metrics_file: "C:/Users/bhuva/Desktop/Alziemer/reports/model_metrics.json"
+hyperparameter_tuning: True
+
