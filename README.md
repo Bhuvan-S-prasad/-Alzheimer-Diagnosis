@@ -2,8 +2,8 @@
 
 ## Table of Contents
 
-1.  [General Overview](#General Overview)
-2.  [Exploratory Data Analysis (EDA) Findings](#Exploratory Data Analysis (EDA) Findings)
+1.  [General Overview](#GeneralOverview)
+2.  [Exploratory Data Analysis (EDA) Findings](#ExploratoryData Analysis(EDA)Findings)
 3.  [Models Used and Model Building](#models-used-and-model-building)
 4.  [MLOps Integration](#mlops-integration)
 5.  [Project Outcomes and Functionality](#project-outcomes-and-functionality)
